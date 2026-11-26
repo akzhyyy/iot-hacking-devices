@@ -1,6 +1,6 @@
  /*
    * Digispark ATtiny85 — PowerShell Reverse Shell
-   * Author: Akshay G Babu
+   * Author: Akzhyyy
    * License: MIT
    *
    * Hardware: Digispark Rev 3 (ATtiny85, 16.5 MHz)
