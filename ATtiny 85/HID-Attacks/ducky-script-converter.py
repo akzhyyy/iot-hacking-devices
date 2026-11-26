@@ -2,7 +2,7 @@
  #!/usr/bin/env python3
   """
   Ducky Script → Digispark ATtiny85 (.ino) Converter
-  Author: Akshay G Babu
+  Author: Akzhyyy
   License: MIT
 
   Usage:
