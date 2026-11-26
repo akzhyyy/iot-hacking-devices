@@ -1,8 +1,3 @@
-### **2. Legal Disclaimer (Required)**
-
-  **Path:** `LEGAL.md`
-
-  ```markdown
   # Legal & Responsible Use Policy
 
   ## ⚖️ Authorized Use Only
@@ -52,10 +47,6 @@
   Hardware designs: **CERN-OHL-P v2** — Open hardware license.
 
   **Neither license grants permission for illegal use.**
-
-  ## 📞 Contact
-
-  Security concerns or responsible disclosure: your.email@example.com
 
   ---
 
